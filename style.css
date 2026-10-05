@@ -1003,6 +1003,37 @@ button {
     color: var(--orange);
 }
 
+.footer-hours h4 {
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+.footer-hours p {
+    color: #7f858b;
+    font-size: 12px;
+    line-height: 1.6;
+    margin: 0;
+    font-weight: 400;
+}
+
+.footer-hours p i {
+    color: #ff5a00;
+    font-size: 12px;
+    margin-right: 10px;
+}
+
+.footer-contact .fa-whatsapp {
+    color: #ff5a00;
+    font-size: 17px;
+}
+
+.barra-contato {
+    color: #777;
+    margin-left: 4px;
+    margin-right: 8px;
+}
+
 
 /* =====================================================
                          GALERIA
